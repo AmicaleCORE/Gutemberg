@@ -198,8 +198,3 @@ Les revenus de l’association se composent :
 * des ressources propres provenant de ces activités,
 * des ressources créées à titre exceptionnel,
 * de toutes autres ressources qui ne seraient pas contraires aux lois en vigueur.
-
-
-
-
-
