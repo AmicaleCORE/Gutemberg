@@ -87,5 +87,3 @@ La qualité de membre se perd par :
 Tout membre n’ayant pas réglé le montant de sa cotisation deux semaines après la fin de
 la validité de celle-ci se verra radier de la liste des membres de l’association. La qualité de
 membre est renouvelable par le payement de la cotisation.
-
-
